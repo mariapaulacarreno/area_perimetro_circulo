@@ -10,13 +10,14 @@ programa en python para calcular el area del perimetro de un circulo, dado el va
 - a: area del circulo 
 - p: perimetro del circlo
 
-sa = \pi*r²$
-sp = 2*\pi*r$
+$a = \pi*r²$
+
+$p = 2*\pi*r$
 
 
 ## Diseño
 
-¡[diagrama de flujo](diagrama.png)
+![diagrama de flujo](diagrama.png)
 
 ## construcción
 - codigo implementado en el archivo area_perimetro_circulo.py
